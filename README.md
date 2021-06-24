@@ -8,6 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
+- [Afterthoughts](#aftherthoughts)
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 
@@ -30,3 +31,8 @@ Users should be able to:
 
 - Pug
 - SCSS
+
+### Afterthoughts
+
+1. it is not very responsive
+2. it would look better if the image is anchored to the right, but im a bit lazy to do that now

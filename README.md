@@ -19,11 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
+![screenshot](./screenshot.png)
 
-![](./screenshot.png)
-
-Mobile
 
 ### Links
 
